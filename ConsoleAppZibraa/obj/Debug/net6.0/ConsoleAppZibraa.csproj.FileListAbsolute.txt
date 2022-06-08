@@ -1,0 +1,15 @@
+C:\Users\okorodiden.lucky\source\repos\ConsoleAppZibraa\ConsoleAppZibraa\bin\Debug\net6.0\ConsoleAppZibraa.exe
+C:\Users\okorodiden.lucky\source\repos\ConsoleAppZibraa\ConsoleAppZibraa\bin\Debug\net6.0\ConsoleAppZibraa.deps.json
+C:\Users\okorodiden.lucky\source\repos\ConsoleAppZibraa\ConsoleAppZibraa\bin\Debug\net6.0\ConsoleAppZibraa.runtimeconfig.json
+C:\Users\okorodiden.lucky\source\repos\ConsoleAppZibraa\ConsoleAppZibraa\bin\Debug\net6.0\ConsoleAppZibraa.dll
+C:\Users\okorodiden.lucky\source\repos\ConsoleAppZibraa\ConsoleAppZibraa\bin\Debug\net6.0\ConsoleAppZibraa.pdb
+C:\Users\okorodiden.lucky\source\repos\ConsoleAppZibraa\ConsoleAppZibraa\obj\Debug\net6.0\ConsoleAppZibraa.csproj.AssemblyReference.cache
+C:\Users\okorodiden.lucky\source\repos\ConsoleAppZibraa\ConsoleAppZibraa\obj\Debug\net6.0\ConsoleAppZibraa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\okorodiden.lucky\source\repos\ConsoleAppZibraa\ConsoleAppZibraa\obj\Debug\net6.0\ConsoleAppZibraa.AssemblyInfoInputs.cache
+C:\Users\okorodiden.lucky\source\repos\ConsoleAppZibraa\ConsoleAppZibraa\obj\Debug\net6.0\ConsoleAppZibraa.AssemblyInfo.cs
+C:\Users\okorodiden.lucky\source\repos\ConsoleAppZibraa\ConsoleAppZibraa\obj\Debug\net6.0\ConsoleAppZibraa.csproj.CoreCompileInputs.cache
+C:\Users\okorodiden.lucky\source\repos\ConsoleAppZibraa\ConsoleAppZibraa\obj\Debug\net6.0\ConsoleAppZibraa.dll
+C:\Users\okorodiden.lucky\source\repos\ConsoleAppZibraa\ConsoleAppZibraa\obj\Debug\net6.0\refint\ConsoleAppZibraa.dll
+C:\Users\okorodiden.lucky\source\repos\ConsoleAppZibraa\ConsoleAppZibraa\obj\Debug\net6.0\ConsoleAppZibraa.pdb
+C:\Users\okorodiden.lucky\source\repos\ConsoleAppZibraa\ConsoleAppZibraa\obj\Debug\net6.0\ConsoleAppZibraa.genruntimeconfig.cache
+C:\Users\okorodiden.lucky\source\repos\ConsoleAppZibraa\ConsoleAppZibraa\obj\Debug\net6.0\ref\ConsoleAppZibraa.dll
